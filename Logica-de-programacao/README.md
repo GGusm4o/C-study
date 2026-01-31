@@ -15,7 +15,7 @@ Este diretório contém minha trilha de estudos sobre os fundamentos da linguage
 ### 📂 [02 - Operadores](./02-Operadores)
 *Ferramentas matemáticas e lógicas.*
 - **Aritméticos:** [Cálculos Básicos](./02-Operadores/OperadoresAritimetico.c)
-- **Atribuição:** [Atribuição Simples e Composta](./02-Operadores/OperadoresAtribuicao.c)
+- **Atribuição:** [Atribuição](./02-Operadores/OperadoresAtribuicao.c)
 - **Comparação:** [Relacionais](./02-Operadores/OpeeradoresRelacionais.c), [Ternário](./02-Operadores/OperadorTernario.c)
 - **Lógicos:** [AND (&&)](./02-Operadores/OperadoreLogicoAND.c), [OR (||)](./02-Operadores/OperadoreLogicoOR.c), [NOT (!)](./02-Operadores/OperadoreLogicNOT.c)
 - **Controle:** [Incremento](./02-Operadores/OperadorIncremento.c), [Decremento](./02-Operadores/OperadorDecremento.c), [Precedência](./02-Operadores/OrdemProcedencia.c)
